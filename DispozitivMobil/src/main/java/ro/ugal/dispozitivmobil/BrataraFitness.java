@@ -17,7 +17,7 @@ public class BrataraFitness {
     }
 
     public void setTest(int test) {
-        this.test = test;
+        this.test = 0;
     }
     
     
