@@ -6,7 +6,7 @@ package ro.ugal.dispozitivmobil;
 
 /**
  *
- * @author Alex
+ * @author Alex 2
  */
 public class DispozitivMobil {
 
